@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 
 if __name__ == '__main__':
-    image_path = 'memes/mem.jpg'
+    image_path = 'memes/pes.jpg'
 
     img = Image.open(image_path)
 
